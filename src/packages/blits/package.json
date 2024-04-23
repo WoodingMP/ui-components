@@ -21,5 +21,8 @@
     "@storybook/html-vite": "^8.0.8",
     "@storybook/test": "^8.0.8",
     "storybook": "^8.0.8"
+  },
+  "peerDependencies": {
+    "@lightningjs/blits": "*"
   }
 }
